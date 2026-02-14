@@ -1,9 +1,23 @@
 [
   {
-    "nama": "lah",
-    "fitur": "ssbs",
-    "foto": "",
+    "nama": "Budi Santoso",
+    "fitur": "Membuat fitur auto-reply untuk WhatsApp bot",
+    "foto": "https://example.com/images/auto-reply.jpg",
     "type": "esm",
-    "timestamp": "2026-02-14T06:16:22.672Z"
+    "timestamp": "2026-02-14T04:42:48.879Z"
+  },
+  {
+    "nama": "Siti Aminah",
+    "fitur": "Command untuk download video YouTube",
+    "foto": "",
+    "type": "cjs",
+    "timestamp": "2026-02-14T05:16:13.374Z"
+  },
+  {
+    "nama": "Joko Widodo",
+    "fitur": "Case untuk menampilkan menu interaktif",
+    "foto": "https://example.com/images/menu.jpg",
+    "type": "case",
+    "timestamp": "2026-02-14T06:30:22.145Z"
   }
 ]
